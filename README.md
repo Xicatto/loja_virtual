@@ -1,4 +1,4 @@
-# lojavirtual
+# Loja Virtual
 
 A new Flutter application.
 
